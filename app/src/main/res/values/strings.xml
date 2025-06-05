@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Open Licenses</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Creative Commons Türkiye</string>
+    <string name="nav_header_subtitle">creativecommons.org.tr</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Menu items -->
+
+    <string name="menu_home">Open Licenses</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_cczero">Zero (CC0)</string>
+
+    <!-- E-mail items -->
+    <string name="email_to">info@creativecommons.org.tr</string>
+    <string name="email_subject">[Open Licenses App]: Feedback / Question</string>
+    <string name="email_body">Please write your feedback or question in detail below: </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
